@@ -27,7 +27,7 @@
 </ul>
 
 <h3>Admin Cred.</h3>
-- Admin: tauseed@test.com , password: tauseed 
+- Admin: genius@test.com , password: tauseed 
 
 <p style="color:yellow">If you like our project please leave a star ❤<p>
 
